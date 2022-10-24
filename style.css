@@ -11,3 +11,13 @@ color: black;
 text-align: center;
 font-size: 40%;
 }
+
+
+.itens{
+    font-style: italic;
+    text-align: left;
+} 
+
+.beneficios{
+    background-color: aquamarine;
+}
