@@ -21,3 +21,16 @@ font-size: 40%;
 .beneficios{
     background-color: aquamarine;
 }
+
+ul{
+    display: inline-block;
+    [vertical-align: top;
+    [margin: 3%;
+    [list-style: circle; 
+
+    ]
+}
+
+#imagem2{
+    width: 50%;
+}
